@@ -4,5 +4,4 @@ Esta análise foi feita como solução de um desafio do programa [ONE - Oracle N
 
 Para a realização desta análise foi usada a biblioteca Pandas e para a geração e visualização de gráficos foi usada a biblioteca Matplotlib, ambas bibliotecas de Python. Ao final da análise, foi escrito um relatório descrevendo o que foi analisado e as conclusões tiradas a partir da análise. Esse projeto englobou todas as etapas do processo de ETL (Extract, Transform and Load).
 
-
-Para acessar o arquivo notebook (.ipynb) e poder ver o código, os gráficos e o relatório, basta clicar no arquivo "alura_store.ipynb" presente no repositório e você conseguirá acessá-lo pela própria plataforma do GitHub.
+Para acessar o arquivo notebook (.ipynb) e poder ver o código, os gráficos e o relatório, basta clicar no arquivo "telecom_x.ipynb" presente no repositório e você conseguirá acessá-lo pela própria plataforma do GitHub.
